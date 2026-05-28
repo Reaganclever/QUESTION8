@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+
+    <image>
+        <title>Nature Beauty</title>
+        <path>images/photo1.avif</path>
+        <description>
+            Beautiful green scenery with natural lighting.
+        </description>
+    </image>
+
+    <image>
+        <title>Urban Photography</title>
+        <path>images/photo2.jpeg</path>
+        <description>
+            Stunning modern city landscape captured professionally.
+        </description>
+    </image>
+
+    <image>
+        <title>Creative Portrait</title>
+        <path>images/photo3.jpeg</path>
+        <description>
+            Artistic portrait photography with cinematic effects.
+        </description>
+    </image>
+
+</gallery>
